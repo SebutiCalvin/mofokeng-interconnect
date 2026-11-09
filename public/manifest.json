@@ -1,0 +1,21 @@
+{
+    "name": "Ranyali Interconnect",
+    "short_name": "Ranyali",
+    "description": "Africa's Premier Construction Marketplace",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A1628",
+    "theme_color": "#C9A94E",
+    "icons": [
+        {
+            "src": "/images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
